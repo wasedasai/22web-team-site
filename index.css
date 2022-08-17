@@ -112,7 +112,7 @@ body {
   }
   .content2{
     background-color: #FFEBDC;
-    height: 1150px;
+    height: 2800px;
     color: #9B5421;
     font-size: 30px;
   }
@@ -130,13 +130,11 @@ body {
   .member1{
     display: flex;
     justify-content: space-around; 
-  }
-  .aino{
-    margin-left: 70px;
+    margin-left: 50px;
   }
   .aino_photo{
-    max-width: 318px;
-    max-height: 430px;
+    max-width: 300px;
+    max-height: 400px;
   }
   .chief{
     margin-bottom: -10px;
@@ -144,11 +142,11 @@ body {
   .aino_name{
     transform:rotate(90deg);
     margin-top: -230px;
-    margin-left: 230px;
+    margin-left: 210px;
   }
   .konomi_photo{
-    max-width: 320px;
-    max-height: 400px;
+    max-width: 310px;
+    max-height: 390px;
   }
   .sub_chief{
     margin-bottom: -10px;
@@ -156,41 +154,123 @@ body {
   .konomi_name{
     transform:rotate(90deg);
     margin-top: -250px;
-    margin-left: 240px;
+    margin-left: 235px;
   }
   .member2{
     display: flex;
     justify-content: space-around; 
     margin-top: 200px;
-    margin-left: 50px;
+    margin-left: 57px;
   }
   .kazuya_photo{
-    max-width: 320px;
-    max-height: 400px;
-    margin-left: 50px;
+    max-width: 310px;
+    max-height: 380px;
   }
   .recreation{
     margin-bottom: -10px;
-    margin-left: 50px;
   }
   .kazuya_name{
     transform:rotate(90deg);
-    margin-top: -250px;
-    margin-left: 280px;
+    margin-top: -235px;
+    margin-left: 225px;
   }
   .akinori_photo{
-    max-width: 340px;
-    max-height: 320px;
-    margin-left: 60px;
+    max-width: 320px;
+    max-height: 305px;
+    margin-left: 50px;
   }
   .mentor{
     margin-bottom: -10px;
-    margin-left: 60px;
+    margin-left: 50px;
   }
   .akinori_name{
     transform:rotate(90deg);
-    margin-top: -220px;
-    margin-left: 270px;
+    margin-top: -200px;
+    margin-left: 236px;
+  }
+  .member3{
+    display: flex;
+    justify-content: space-around; 
+    margin-top: 200px;
+  }
+  .rin_photo{
+    max-width: 310px;
+  }
+  .new1{
+    margin-bottom: -10px;
+  }
+  .rin_name{
+    margin-top: -10px;
+  }
+  .mai_photo{
+    max-width: 310px;
+  }
+  .new2{
+    margin-bottom: -10px;
+  }
+  .mai_name{
+    margin-top: -10px;
+  }
+  .kou_photo{
+    max-width: 310px;
+  }
+  .new3{
+    margin-bottom: -10px;
+  }
+  .kou_name{
+    margin-top: -10px;
+  }
+  .member4{
+    display: flex;
+    justify-content: space-around; 
+    margin-top: 30px;
+    margin-left: 50px;
+  }
+  .naofumi_photo{
+    max-width: 320px;
+  }
+  .new4{
+    margin-bottom: -10px;
+  }
+  .naofumi_name{
+    margin-top: -10px;
+  }
+
+  .rintaro_photo{
+    max-width: 340px;
+    max-height: 320px;
+  }
+  .new5{
+    margin-bottom: -10px;
+  }
+  .rintaro_name{
+    margin-top: -10px;
+  }
+  .member5{
+    display: flex;
+    justify-content: space-around; 
+    margin-top: 30px;
+    margin-left: 50px;
+  }
+  .kazuki_photo{
+    max-width: 340px;
+    max-height: 320px;
+  }
+  .new6{
+    margin-bottom: -10px;
+  }
+  .kazuki_name{
+    margin-top: -10px;
+  }
+  .natsumi_photo{
+    max-width: 340px;
+    max-height: 320px;
+  }
+  .new7{
+    margin-bottom: -10px;
+  }
+  .natsumi_name{
+    margin-top: -10px;
   }
   .content3{
     color: #542800;
